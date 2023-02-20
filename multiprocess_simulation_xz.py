@@ -33,7 +33,7 @@ def payoff(node, target):
         if G.nodes[nbr]['object'] != None:
             if G.nodes[nbr]['object'].color == G.nodes[node]['object'].color:
                 similar_neighbors += 1
-        occupied_neighbors += 1
+            occupied_neighbors += 1
     if occupied_neighbors > 0:
         x = similar_neighbors / occupied_neighbors
     else:
@@ -76,7 +76,7 @@ def non_guttman_transfer_probabilities(node, candidate_vacancies):
             if G.nodes[nbr]['object'] != None:
                 if G.nodes[nbr]['object'].color == G.nodes[node]['object'].color:
                     similar_neighbors += 1
-            occupied_neighbors += 1
+                occupied_neighbors += 1
         if occupied_neighbors > 0:
             x = similar_neighbors / occupied_neighbors
         else:

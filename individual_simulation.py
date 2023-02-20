@@ -33,7 +33,7 @@ def payoff(node, target):
         if G.nodes[nbr]['object'] != None:
             if G.nodes[nbr]['object'].color == G.nodes[node]['object'].color:
                 similar_neighbors += 1
-        occupied_neighbors += 1
+            occupied_neighbors += 1
     if occupied_neighbors > 0:
         x = similar_neighbors / occupied_neighbors
     else:
@@ -82,7 +82,8 @@ def set_tolerance_threshold(method='xie_zhou'):
             tolerance_threshold = None
         
     elif method == 'schelling':
-        tolerance_threshold = .5
+        tolerance_threshold = .39604933366910855
+        
     
     return tolerance_threshold
 
@@ -203,13 +204,13 @@ def update():
 
 def simulate():
     global G, assortativity, xz_results, sch_results, result
-    iters = 100
+    iters = 1
     excess_housing_fraction = 0.15
     results = []
     n=3
     for k in range(iters):
         method = "schelling"
-        topology_modifier = n * 32
+        topology_modifier = 0
         initialize(topology_modifier = topology_modifier, excess_housing=0.15, method=method)
         result = Result()
         result.parameters = [f"Topology Modifier: {topology_modifier}", f"Excess Housing Fraction: {excess_housing_fraction}", f"Method: {method}"]

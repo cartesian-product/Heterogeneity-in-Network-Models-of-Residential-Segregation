@@ -33,7 +33,7 @@ def payoff(node, target):
         if G.nodes[nbr]['object'] != None:
             if G.nodes[nbr]['object'].color == G.nodes[node]['object'].color:
                 similar_neighbors += 1
-        occupied_neighbors += 1
+            occupied_neighbors += 1
     if occupied_neighbors > 0:
         x = similar_neighbors / occupied_neighbors
     else:
@@ -61,7 +61,7 @@ def set_tolerance_threshold(method='xie_zhou'):
             tolerance_threshold = None
         
     elif method == 'schelling':
-        tolerance_threshold = .5
+        tolerance_threshold = .3961503279960033
     
     return tolerance_threshold
 
@@ -76,7 +76,7 @@ def non_guttman_transfer_probabilities(node, candidate_vacancies):
             if G.nodes[nbr]['object'] != None:
                 if G.nodes[nbr]['object'].color == G.nodes[node]['object'].color:
                     similar_neighbors += 1
-            occupied_neighbors += 1
+                occupied_neighbors += 1
         if occupied_neighbors > 0:
             x = similar_neighbors / occupied_neighbors
         else:
@@ -219,5 +219,5 @@ def mp_simulate(n):
         result.graph = G
         results.append(result)
     
-    with open(f"sch_result_{n}.pkl", "wb") as dill_file:
+    with open(f"sch_results_{n}.pkl", "wb") as dill_file:
         dill.dump(results, dill_file)
