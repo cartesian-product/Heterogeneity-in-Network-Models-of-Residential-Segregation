@@ -1,0 +1,168 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Sakoda(1971)]{SakodaJamesM.1971Tcmo}
+James~M. Sakoda.
+\newblock The checkerboard model of social interaction.
+\newblock \emph{The Journal of Mathematical Sociology}, 1\penalty0 (1):\penalty0 119--132, 1971.
+\newblock ISSN 0022-250X.
+
+\bibitem[Schelling(1971)]{schelling1971dynamic}
+Thomas~C Schelling.
+\newblock Dynamic models of segregation.
+\newblock \emph{Journal of Mathematical Sociology}, 1\penalty0 (2):\penalty0 143--186, 1971.
+
+\bibitem[Xie and Zhou(2012)]{xie2012modeling}
+Yu~Xie and Xiang Zhou.
+\newblock Modeling individual-level heterogeneity in racial residential segregation.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 109\penalty0 (29):\penalty0 11646--11651, 2012.
+
+\bibitem[Gandica et~al.(2016)Gandica, Gargiulo, and Carletti]{gandica2016can}
+Yerali Gandica, Floriana Gargiulo, and Timoteo Carletti.
+\newblock Can topology reshape segregation patterns?
+\newblock \emph{Chaos, Solitons \& Fractals}, 90:\penalty0 46--54, 2016.
+
+\bibitem[Deter(2023)]{DeterWill2023BaTH}
+Will Deter.
+\newblock Behavioral and topological heterogeneities in network models of segregation.
+\newblock \emph{Dissertations \& Theses @ Binghamton University}, 2023.
+
+\bibitem[Bruch and Mare(2006)]{BRUCHElizabethE2006Ncan}
+Elizabeth~E Bruch and Robert~D Mare.
+\newblock Neighborhood choice and neighborhood change.
+\newblock \emph{The American Journal of Sociology}, 112\penalty0 (3):\penalty0 667--709, 2006.
+\newblock ISSN 0002-9602.
+
+\bibitem[Clark and Fossett(2008)]{clark2008understanding}
+William~AV Clark and Mark Fossett.
+\newblock Understanding the social context of the schelling segregation model.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 105\penalty0 (11):\penalty0 4109--4114, 2008.
+
+\bibitem[Clark(1991)]{ClarkW.A.V.1991RPaN}
+W.~A.~V. Clark.
+\newblock Residential preferences and neighborhood racial segregation: A test of the schelling segregation model.
+\newblock \emph{Demography}, 28\penalty0 (1):\penalty0 1--19, 1991.
+\newblock ISSN 0070-3370.
+
+\bibitem[Fossett(2006)]{fossett2006ethnic}
+Mark Fossett.
+\newblock Ethnic preferences, social distance dynamics, and residential segregation: Theoretical explorations using simulation analysis.
+\newblock \emph{Journal of Mathematical Sociology}, 30\penalty0 (3-4):\penalty0 185--273, 2006.
+
+\bibitem[Gargiulo et~al.(2015)Gargiulo, Gandica, and Carletti]{GargiuloFloriana2015UsfS}
+Floriana Gargiulo, Yerali Gandica, and Timoteo Carletti.
+\newblock Urban skylines from schelling model.
+\newblock \emph{arXiv.org}, 2015.
+\newblock ISSN 2331-8422.
+
+\bibitem[Zhang(2004{\natexlab{a}})]{zhang2004dynamic}
+Junfu Zhang.
+\newblock A dynamic model of residential segregation.
+\newblock \emph{Journal of Mathematical Sociology}, 28\penalty0 (3):\penalty0 147--170, 2004{\natexlab{a}}.
+
+\bibitem[Zhang(2004{\natexlab{b}})]{zhang2004residential}
+Junfu Zhang.
+\newblock Residential segregation in an all-integrationist world.
+\newblock \emph{Journal of Economic Behavior \& Organization}, 54\penalty0 (4):\penalty0 533--550, 2004{\natexlab{b}}.
+
+\bibitem[Abella et~al.(2022)Abella, San~Miguel, and Ramasco]{AbellaDavid2022AeiS}
+David Abella, Maxi San~Miguel, and José~J. Ramasco.
+\newblock Aging effects in schelling segregation model.
+\newblock \emph{Scientific reports}, 12\penalty0 (1):\penalty0 19376--19376, 2022.
+\newblock ISSN 2045-2322.
+
+\bibitem[Fagiolo et~al.(2007)Fagiolo, Valente, and Vriend]{FagioloGiorgio2007Sin}
+Giorgio Fagiolo, Marco Valente, and Nicolaas~J. Vriend.
+\newblock Segregation in networks.
+\newblock \emph{Journal of economic behavior \& organization}, 64\penalty0 (3):\penalty0 316--336, 2007.
+\newblock ISSN 0167-2681.
+
+\bibitem[Gambetta et~al.(2023)Gambetta, Mauro, and Pappalardo]{GambettaDaniele2023Mcis}
+Daniele Gambetta, Giovanni Mauro, and Luca Pappalardo.
+\newblock Mobility constraints in segregation models.
+\newblock \emph{Scientific reports}, 13\penalty0 (1):\penalty0 12087--12087, 2023.
+\newblock ISSN 2045-2322.
+
+\bibitem[Vinković and Kirman(2006)]{VinkovićDejan2006paot}
+Dejan Vinković and Alan Kirman.
+\newblock physical analogue of the schelling model.
+\newblock \emph{Proceedings of the National Academy of Sciences - PNAS}, 103\penalty0 (51):\penalty0 19261--19265, 2006.
+\newblock ISSN 0027-8424.
+
+\bibitem[Mantzaris(2020)]{MantzarisAlexanderV.2020Iamv}
+Alexander~V. Mantzaris.
+\newblock Incorporating a monetary variable into the schelling model addresses the issue of a decreasing entropy trace.
+\newblock \emph{Scientific reports}, 10\penalty0 (1):\penalty0 17005--17005, 2020.
+\newblock ISSN 2045-2322.
+
+\bibitem[Frankenberg and Taylor(2018)]{FrankenbergErica2018DFST}
+Erica Frankenberg and Kendra Taylor.
+\newblock De facto segregation: Tracing a legal basis for contemporary inequality.
+\newblock \emph{Journal of Law \& Education}, 47\penalty0 (2):\penalty0 189--233, 2018.
+\newblock ISSN 0275-6072.
+
+\bibitem[Sayama and Yamanoi(2020)]{sayama2020beyond}
+Hiroki Sayama and Junichi Yamanoi.
+\newblock Beyond social fragmentation: Coexistence of cultural diversity and structural connectivity is possible with social constituent diversity.
+\newblock In \emph{Proceedings of NetSci-X 2020: Sixth International Winter School and Conference on Network Science 6}, pages 171--181. Springer, 2020.
+
+\bibitem[Yamanoi and Sayama(2013)]{YamanoiJunichi2013Pcif}
+Junichi Yamanoi and Hiroki Sayama.
+\newblock Post-merger cultural integration from a social network perspective: a computational modeling approach.
+\newblock \emph{Computational and Mathematical Organization Theory}, 19\penalty0 (4):\penalty0 516--537, 2013.
+\newblock ISSN 1381-298X.
+
+\bibitem[Bullock and Sayama(2023)]{BullockSeth2023AHME}
+Seth Bullock and Hiroki Sayama.
+\newblock Agent heterogeneity mediates extremism in an adaptive social network model.
+\newblock \emph{arXiv.org}, 2023.
+
+\bibitem[Sánchez-Puig et~al.(2022)Sánchez-Puig, Zapata, Pineda, Iñiguez, and Gershenson]{Sánchez-PuigFernanda2022Hec}
+Fernanda Sánchez-Puig, Octavio Zapata, Omar~K Pineda, Gerardo Iñiguez, and Carlos Gershenson.
+\newblock Heterogeneity extends criticality.
+\newblock \emph{arXiv.org}, 2022.
+
+\bibitem[Hegselmann(2017)]{HegselmannRainer2017TCSa}
+Rainer Hegselmann.
+\newblock Thomas c. schelling and james m. sakoda: The intellectual, technical, and social history of a model.
+\newblock \emph{Journal of Artificial Societies and Social Simulation}, 20\penalty0 (3), 2017.
+\newblock ISSN 1460-7425.
+
+\bibitem[Guttman(1944)]{GuttmanLouis1944ABfS}
+Louis Guttman.
+\newblock A basis for scaling qualitative data.
+\newblock \emph{American Sociological Review}, 9\penalty0 (2):\penalty0 139--150, 1944.
+\newblock ISSN 0003-1224.
+
+\bibitem[Watts and Strogatz(1998)]{Watts1998}
+Duncan~J. Watts and Steven~H. Strogatz.
+\newblock Collective dynamics of ‘small-world’ networks.
+\newblock \emph{Nature}, 393\penalty0 (6684):\penalty0 440--442, 1998.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/30918}.
+\newblock URL \url{https://doi.org/10.1038/30918}.
+
+\bibitem[Erdos and Renyi(1960)]{Erdos:1960}
+Paul Erdos and Alfred Renyi.
+\newblock On the evolution of random graphs.
+\newblock \emph{Publ. Math. Inst. Hungary. Acad. Sci.}, 5:\penalty0 17--61, 1960.
+
+\bibitem[Albert and Barab\'asi(2002)]{Barabasi.Albert.74.47}
+R\'eka Albert and Albert-L\'aszl\'o Barab\'asi.
+\newblock Statistical mechanics of complex networks.
+\newblock \emph{Rev. Mod. Phys.}, 74:\penalty0 47--97, Jan 2002.
+\newblock \doi{10.1103/RevModPhys.74.47}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/RevModPhys.74.47}.
+
+\bibitem[Newman(2003)]{PhysRevE.67.026126}
+M.~E.~J. Newman.
+\newblock Mixing patterns in networks.
+\newblock \emph{Phys. Rev. E}, 67:\penalty0 026126, Feb 2003.
+\newblock \doi{10.1103/PhysRevE.67.026126}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevE.67.026126}.
+
+\end{thebibliography}
